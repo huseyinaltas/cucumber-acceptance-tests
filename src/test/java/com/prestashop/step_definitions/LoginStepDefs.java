@@ -108,5 +108,5 @@ public class LoginStepDefs {
 	public void the_user_tries_to_register_the_same_email() {
 		signinPage.signupEmail.sendKeys(email + Keys.ENTER);
 	}
-
+//comment
 }
